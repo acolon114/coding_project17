@@ -1,3 +1,4 @@
+//Task 2: Gallery.jsx (Tour List Component)
 import React, { useState, useEffect } from "react";
 import "../src/App.css"; // Import CSS for styling
 

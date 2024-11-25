@@ -1,3 +1,5 @@
+//Task 3: Styling and Custom Components 
+
 import React from "react";
 import { Link } from "react-router-dom";
 import "../src/App.css"; // Import CSS for styling

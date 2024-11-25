@@ -1,4 +1,4 @@
-//Task 1: 
+//Task 1: App.jsx (Root Component)
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Gallery from "../components.jsx/Gallery.jsx"; // Import the Gallery component
