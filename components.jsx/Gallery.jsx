@@ -91,7 +91,7 @@ const Gallery = () => {
   }
   return (
     <div className="gallery">
-      <h1>Our Tours</h1>
+      <h2><center>Our Tours</center></h2><p></p><p></p>
       <div className="tour-list">
        {
         tours.filter( tour => tour.notInterested !== 1).map(
